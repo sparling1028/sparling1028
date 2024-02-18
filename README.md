@@ -1,16 +1,17 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Solomon Sparling
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Hi, My name is Solomon Sparling
 =====================================================================================================================================
 
-## Senior Backend Software Engineer / Database Admin
-Currently I am working in cybersecurity desining a performant and scalable SDK for processing billions of security events daily, runing abstract compaisons, and automating actions based on abstract rules.  
+## Senior Backend Software Engineer / Database Architect
+I am currently working in cybersecurity designing a performant and scalable SDK for processing billions of security events daily, running abstract comparisons and automating actions based on abstract rules.  
 
-I'm passionate about data flow automations and desinging horizontally scalable backend systems.  I am a strong believer in both functional programming
+I am passionate about data flow automations and designing horizontally scalable backend systems.  I am a strong believer in both functional programming
 and modular systems. 
 
 --------------------------------------  
 
-* 🌍  I'm based in **Washington, DC**
-* 💬 Ask me about **Horizonal scaling of CPU intensive compute**
+* 🌍 I'm based in **Washington, DC**
+* 🤓 Expert in **Python, Linux and SQL**
+* 💬 Ask me about **Horizontal scaling of CPU intensive compute**
 * 🧠 I’m currently learning **Golang & System Design**
 * 🤝 I’m looking for help with **Project Management**
 
