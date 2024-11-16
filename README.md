@@ -10,7 +10,7 @@ and modular systems.
 --------------------------------------  
 
 * 🌍 I'm based in **Washington, DC**
-* 🤓 Expert in **Python, Linux and SQL**
+* 🤓 Expert in **Python, Linux, MongoDB, and SQL**
 * 💬 Ask me about **Horizontal scaling of CPU intensive compute**
 * 🧠 I’m currently learning **Golang & System Design**
 * 🤝 I’m looking for help with **Project Management**
