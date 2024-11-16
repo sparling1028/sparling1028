@@ -2,10 +2,13 @@
 =====================================================================================================================================
 
 ## Senior Backend Software Engineer / Database Architect
-I am currently working in cybersecurity designing a performant and scalable SDK for processing billions of security events daily, running abstract comparisons and automating actions based on abstract rules.  
 
-I am passionate about data flow automations and designing horizontally scalable backend systems.  I am a strong believer in both functional programming
-and modular systems. 
+Experienced in the cybersecurity, insurance and manufacturing industries, working to ensure data consistency and fidelity. I build systems that are performant, scalable, and intuitive; handling billions of events daily.  I love to unify the backend of the backend allowing for faster more reliable and intuitively consistent deployments.
+
+I have designed SIEM's, logging systems, Object Relational Mappings, Abstract Schema SDK's and Clustered Task Management Systems.
+I have implemented/optimized numerous databases into production environments.
+
+I am a strong believer in both functional programming and modular systems. 
 
 --------------------------------------  
 
